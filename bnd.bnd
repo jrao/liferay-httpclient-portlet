@@ -1,0 +1,4 @@
+Bundle-Name: httpclient-portlet
+Bundle-SymbolicName: com.liferay.httpclientportlet
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.httpclientportlet.constants
