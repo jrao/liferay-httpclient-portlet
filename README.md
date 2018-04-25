@@ -1,0 +1,1 @@
+This project exercises the Apache HttpClient v4 API to demonstrate that [http://search.maven.org/#artifactdetails%7Corg.apache.httpcomponents%7Chttpclient-osgi%7C4.5.5%7Cbundle](http://search.maven.org/#artifactdetails%7Corg.apache.httpcomponents%7Chttpclient-osgi%7C4.5.5%7Cbundle) is available to Liferay modules.
